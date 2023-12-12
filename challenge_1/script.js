@@ -1,6 +1,9 @@
-'use strict';
+"use strict";
 
-console.log("Hello world!");
-console.info("Hello world!");
-console.error("Hello world!");
-console.warn("Hello world!");
+let admin;
+let userName;
+
+userName = "John";
+
+admin = userName;
+console.log(admin);
