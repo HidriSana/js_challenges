@@ -78,3 +78,4 @@ console.log(
  */
 
 console.log(`There is ${zodiacSigns.length} signs in the zodiac`);
+
