@@ -46,6 +46,6 @@ function printGoals(...allPlayers) {
     console.log(player);
   });
 }
-return `Nombre total de buts : ${}`
+//return `Nombre total de buts : ${}`
 
 console.log(printGoals(...game.scored));
